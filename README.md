@@ -4,7 +4,7 @@
 
 A comprehensive IoT-based agriculture monitoring and management system that helps farmers make data-driven decisions. The platform collects real-time sensor data, analyzes it using machine learning, and provides actionable insights through a user-friendly interface.
 
-AgriOK user interface: https://agri-ok.vercel.app/
+AgriOK user interface: https://agri-ok.vercel.app/#/login
 
 ## Features
 
