@@ -70,4 +70,5 @@ cd AgriOk-platforma
 
 AgriOk's architecture:   <img width="464" alt="agriok artchitecture" src="https://github.com/user-attachments/assets/9be6749e-eea1-4c9c-a3ca-d2b1a0306f32">
 
+Vidio Simulation: https://youtu.be/Wddhod0bCbQ
 
